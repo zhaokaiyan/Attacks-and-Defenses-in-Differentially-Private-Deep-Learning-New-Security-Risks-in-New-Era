@@ -44,9 +44,11 @@
 1. **基础介绍**：
 
    * 该综述系统介绍了差分隐私深度学习（DP-DL）的基本概念与理论基础，分析了在深度学习中引入差分隐私机制以保护敏感数据的基本原理与实现方式。
+     
    ![DP-DL](https://github.com/zhaokaiyan/image/blob/main/multi-level_DP-DL.png)
 
    * 从数据层、算法层和架构层三个层面构建分析框架，系统梳理DP-DL系统中的潜在隐私风险、典型攻击方式及相应防御策略，为后续研究提供结构化参考。
+     
    ![Risk](https://github.com/zhaokaiyan/image/raw/main/Risk_Analysis_Framework.png)
 
 2. **风险分类与分析**：
