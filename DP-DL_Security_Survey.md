@@ -67,6 +67,7 @@
    * 跨层攻击链（投毒攻击）使攻击者在复杂系统中持续放大影响并进一步破坏整体模型安全。
 
    * 这些隐私风险可能在医疗、推荐系统等现实应用场景中引发数据滥用和合规风险，从而影响用户信任并阻碍隐私保护技术的大规模落地。
+     ![attack](https://github.com/zhaokaiyan/image/raw/main/Attacks.png)
 
 4. **防御策略**：
 
@@ -77,7 +78,7 @@
    * **架构层防御**：设计隐私友好的模型结构与训练架构以限制模型记忆与信息泄露路径，降低模型结构带来的隐私泄露风险。
 
    * **针对跨层威胁的防御**：结合数据过滤、鲁棒训练与异常检测等多层机制协同防御投毒等跨阶段攻击。
-   ![defense](https://github.com/zhaokaiyan/image/raw/main/Defenses.png)
+     ![defense](https://github.com/zhaokaiyan/image/raw/main/Defenses.png)
 
 ##### 分析与结论
 
